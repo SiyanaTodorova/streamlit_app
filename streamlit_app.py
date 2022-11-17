@@ -44,7 +44,7 @@ except URLError as e:
   streamlit.error()
   
 
-streamlit.header("The fruit load list contains:")
+streamlit.header("View Our Fruit List - Add Your Favorites!")
 
 #import snowflake.connector
 #Snowflake-related functions
